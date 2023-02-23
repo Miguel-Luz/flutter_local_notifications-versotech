@@ -1,4 +1,4 @@
-# [4.0.1+2]
+# [4.0.1+2 - alterado versotech]
 
 * [iOS/macOS] fixed issue where not requesting any permissions (i.e. all the boolean flags were set to false) would still cause a permissions prompt to appear. Thanks to the PR from [Andrey Parvatkin](https://github.com/badver)
 
